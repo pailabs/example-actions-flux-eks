@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: aws-example-octodex
-        image: 064004006639.dkr.ecr.us-east-1.amazonaws.com/skynet-eks:dd577ff92fa374ea2064218df2cd22d5ea0d8e50
+        image: 064004006639.dkr.ecr.us-east-1.amazonaws.com/skynet-eks:8b55ba1bd814ededcf09bc2d8df9a67ee7a30c16
         # image1: REGISTRY/IMAGE:TAG
         ports:
         - containerPort: 5000
